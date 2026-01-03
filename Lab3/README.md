@@ -6,5 +6,5 @@
 #### 3.ใช้ Getter/Setter
 #### 4.ใช้ Inheritance (เช่น สินค้าทั่วไป, สินค้าลดราคา)
 
-## ผลลัพธ์
-src="images/image.png"
+## ผลลัพธ์"
+![alt text](images/image.png)
